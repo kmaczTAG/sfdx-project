@@ -185,6 +185,15 @@
                 <componentName>flexipage:tabset</componentName>
             </componentInstance>
         </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>animations</name>
+                    <value>true</value>
+                </componentInstanceProperties>
+                <componentName>PictureGalleryCard</componentName>
+            </componentInstance>
+        </itemInstances>
         <mode>Replace</mode>
         <name>sidebar</name>
         <type>Region</type>
